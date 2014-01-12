@@ -1,4 +1,6 @@
-This is your new Play application
+Play for Scala Book Chapter 2 Application
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This is the example application from Chapter 2 of the Play for Scala book. I'm working through the chapter and also
+making a few changes myself to see how other parts of Play framework behave.
+
