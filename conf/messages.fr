@@ -1,0 +1,13 @@
+application.name = Catalogue des produits
+ean = EAN
+name = Nom
+description = Descriptif
+
+product.details = Product: {0}
+
+products.form = Détails du produit
+products.new = (nouveau)
+products.new.command = Ajouter
+products.new.submit = Ajouter
+products.new.success = Produit {0} ajouté.
+
